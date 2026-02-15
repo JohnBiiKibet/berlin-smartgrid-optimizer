@@ -4,9 +4,7 @@ A Smart Grid Controller to Prevent Blackouts.
 Step 1: Create the file in VS Code
 In your project folder, create a new file named README.md (case sensitive).
 Open it and paste the content below.
-Step 2: The "Blue Card" Standard Content
-Copy and paste this into your README.md, replacing the bracketed text:
-markdown
+
 # 🌍 Berlin Smart-Grid AI Optimizer
 **An AI-driven simulation for energy efficiency in urban power grids.**
 
@@ -70,6 +68,7 @@ Available for ICT roles in Berlin (Opportunity Card Holder)
 
 ### Step 4: Verify on GitHub
 Refresh your repository page on [GitHub.com](https://github.com). 
+
 
 
 
