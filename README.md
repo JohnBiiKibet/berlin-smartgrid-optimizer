@@ -1,7 +1,6 @@
 ﻿# Tic-Tac-Toe-AI-Game-with-FastAPI
 A Smart Grid Controller to Prevent Blackouts.
 
-Follow these steps to create a high-impact README for your Berlin Smart-Grid Optimizer.
 Step 1: Create the file in VS Code
 In your project folder, create a new file named README.md (case sensitive).
 Open it and paste the content below.
@@ -83,6 +82,7 @@ Now, tell Git to upload the new README:
 
 ### Step 4: Verify on GitHub
 Refresh your repository page on [GitHub.com](https://github.com). 
+
 
 
 
