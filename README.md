@@ -66,22 +66,11 @@ Dockerization for cloud deployment (AWS/Azure).
 📬 Contact
 John Kibet
 Available for ICT roles in Berlin (Opportunity Card Holder)
-use this account to reward me with a job
 
----
-
-### Step 3: Save and Push to GitHub
-Now, tell Git to upload the new README:
-
-1.  **In your VS Code terminal, run:**
-    ```powershell
-    git add README.md
-    git commit -m "docs: add professional README for Berlin Blue Card profile"
-    git push
-    ```
 
 ### Step 4: Verify on GitHub
 Refresh your repository page on [GitHub.com](https://github.com). 
+
 
 
 
